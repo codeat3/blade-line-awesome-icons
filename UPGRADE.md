@@ -19,5 +19,5 @@ php artisan vendor:publish --tag=blade-line-awesome-icons --force
 The new way to reference them is:
 
 ```blade
-<img src="{{ asset('vendor/blade-line-awesome-icons/access-time-24.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-line-awesome-icons/warehouse-solid.svg') }}" width="10" height="10"/>
 ```

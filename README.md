@@ -50,19 +50,19 @@ php artisan vendor:publish --tag=blade-line-awesome-icons-config
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
 
 ```blade
-<x-lineawesome-access-time-24/>
+<x-lineawesome-warehouse-solid/>
 ```
 
 You can also pass classes to your icon components:
 
 ```blade
-<x-lineawesome-access-time-24 class="w-6 h-6 text-gray-500"/>
+<x-lineawesome-warehouse-solid class="w-6 h-6 text-gray-500"/>
 ```
 
 And even use inline styles:
 
 ```blade
-<x-lineawesome-access-time-24 style="color: #555"/>
+<x-lineawesome-warehouse-solid style="color: #555"/>
 ```
 
 ### Raw SVG Icons
@@ -76,7 +76,7 @@ php artisan vendor:publish --tag=blade-line-awesome-icons --force
 Then use them in your views like:
 
 ```blade
-<img src="{{ asset('vendor/blade-line-awesome-icons/access-time-24.svg') }}" width="10" height="10"/>
+<img src="{{ asset('vendor/blade-line-awesome-icons/warehouse-solid.svg') }}" width="10" height="10"/>
 ```
 
 ## Changelog
