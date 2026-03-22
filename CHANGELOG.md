@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-line-awesome-icons/compare/1.5.0...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-line-awesome-icons/compare/1.6.0...HEAD)
+
+## [1.6.0](https://github.com/codeat3/blade-line-awesome-icons/compare/1.5.0...1.6.0) - 2026-03-22
+
+### What's Changed
+
+* laravel 13 compatibility by @swapnilsarwe in https://github.com/codeat3/blade-line-awesome-icons/pull/8
+
+**Full Changelog**: https://github.com/codeat3/blade-line-awesome-icons/compare/1.5.0...1.6.0
 
 ## [1.5.0](https://github.com/codeat3/blade-line-awesome-icons/compare/1.4.0...1.5.0) - 2025-02-25
 
